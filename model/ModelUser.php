@@ -1,4 +1,3 @@
 <?php
-echo "Ini model user";
-
+echo "rkahcrkahckrhakc";
 ?>
